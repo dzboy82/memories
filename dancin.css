@@ -1,0 +1,18 @@
+.u-section-1 {
+  background-image: url("images/IMG_20210111_192007.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-video-1 {
+  min-height: 700px;
+}
+
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-video-1 {
+    min-height: 600px;
+  }
+}
